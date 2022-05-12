@@ -7,12 +7,9 @@
 Console.Write("Введите число = ");
 string strNum = Console.ReadLine();
 if (strNum.Length  > 2)
-{
     Console.WriteLine($"{strNum} -> {strNum[2]}");
-}
 else
-{
     Console.WriteLine($"{strNum} -> Третьей цифры нет");
-}
+System.Console.ReadKey();
 
 

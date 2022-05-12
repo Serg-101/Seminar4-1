@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Seminar4-1\\dz03\\Dz03.csproj": {}
+    "C:\\Code\\Seminar4-1\\Dz03\\Dz03.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Seminar4-1\\dz03\\Dz03.csproj": {
+    "C:\\Code\\Seminar4-1\\Dz03\\Dz03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Seminar4-1\\dz03\\Dz03.csproj",
+        "projectUniqueName": "C:\\Code\\Seminar4-1\\Dz03\\Dz03.csproj",
         "projectName": "Dz03",
-        "projectPath": "C:\\Code\\Seminar4-1\\dz03\\Dz03.csproj",
+        "projectPath": "C:\\Code\\Seminar4-1\\Dz03\\Dz03.csproj",
         "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Seminar4-1\\dz03\\obj\\",
+        "outputPath": "C:\\Code\\Seminar4-1\\Dz03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"

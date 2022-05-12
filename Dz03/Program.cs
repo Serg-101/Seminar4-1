@@ -14,3 +14,4 @@ if (Enumerable.Range(1, 7).Contains(dayOfWeek)) // check if is in range
         Console.WriteLine($"{dayOfWeek} -> нет, это будний день.");
 else
     System.Console.WriteLine("Не корректный ввод!");
+System.Console.ReadKey();

@@ -15,5 +15,4 @@ else
 {
     System.Console.WriteLine("Не корректный ввод!");
 }
-
-
+System.Console.ReadKey();
